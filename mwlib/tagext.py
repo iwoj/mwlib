@@ -87,7 +87,7 @@ class IgnoreTagBase(TagExtension):
 # ---
 
 # list of tags than can not easily be re implemented in PDFs 
-tags_to_ignore = """chem chess choose dpl dynamicpagelist feyn forum
+tags_to_ignore = """iframe chem chess choose dpl dynamicpagelist feyn forum
 go googlemapkml graph greek ling plot ppch
 randomimage schem staff teng tipa verbatim
 aoaudio aovideo bloglist cgamer ggtube googlemap
